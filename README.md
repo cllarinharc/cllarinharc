@@ -1,10 +1,9 @@
 ### Obrigado pela visita! 👋
 
 
-- 🎓 Cursando 2º semestre de Análise e Desenvolvimento de Sistemas.
-- 🌱 Estou atualmente estudando javascript e Python...
+- 🎓 Cursando 3º semestre de Análise e Desenvolvimento de Sistemas.
+- 🌱 Estou atualmente estudando javascript, Python e  Quality Assurance...
 - 📫 Contate-me no email: anaclara1905@hotmail.com
-- 💬 Pergunte-me sobre...
 
 ##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cllarinharc)](https://github.com/cllarinharc/github-readme-stats)
