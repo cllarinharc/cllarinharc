@@ -2,7 +2,8 @@
 
 
 - 🎓 Cursando 3º semestre de Análise e Desenvolvimento de Sistemas.
-- 🌱 Estou atualmente estudando javascript, Python e  Quality Assurance...
+- 🎓 Digital College | Full Stack
+- 🌱 Estou atualmente estudando javascript e  Quality Assurance...
 - 📫 Contate-me no email: anaclara1905@hotmail.com
 
 ##
