@@ -1,9 +1,9 @@
 ### Obrigado pela visita! 👋
 
 
-- 🎓 Cursando 3º semestre de Análise e Desenvolvimento de Sistemas.
+- 🎓 Cursando 5º semestre de Análise e Desenvolvimento de Sistemas.
 - 🎓 Digital College | Full Stack
-- 🌱 Estou atualmente estudando javascript e  Quality Assurance...
+- 🌱 Estou atualmente estudando javascript...
 - 📫 Contate-me no email: anaclara1905@hotmail.com
 
 ##
